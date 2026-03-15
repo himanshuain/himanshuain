@@ -69,5 +69,5 @@
 
 <div align="center">
   <h3>⭐ Thanks for visiting!</h3>
-  <p>Made with ❤️ by Himanshu Jain</p>
+  <p>Made by Himanshu Jain</p>
 </div>
